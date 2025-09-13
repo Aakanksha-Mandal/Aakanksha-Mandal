@@ -16,6 +16,10 @@ Please visit my **[Personal Portfolio Website](https://my-personal-portfolio-azu
   - Developed websites using HTML, CSS, and Bootstrap, focusing on responsive design.
 
 ## Projects
+- [Personal Portfolio Website](https://my-personal-portfolio-azure-psi.vercel.app)
+  - Created a personal portfolio website with AI-assisted coding using Firebase Studio AI.
+  - Leveraged Next.js, TypeScript, Tailwind CSS, Vercel hosting, and PostCSS to rapidly prototype and deploy a fully functional, responsive web portfolio showcasing my skills and projects.
+
 - [GenX Coding YouTube Channel](https://www.youtube.com/@genxcoding55)
   - Created Python tutorials, including quiz games, sound integration with Pygame, calculators, and more.
     
