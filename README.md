@@ -2,6 +2,8 @@
 
 Hi! I’m Aakanksha, a **2nd year Computer Science** student at the **University of Windsor** with a strong passion for software development, system architecture, and problem-solving. I have experience working with Python, Java, C, Bash, and web development (HTML, CSS, JavaScript). I’ve worked with a variety of tools and technologies including Visual Studio, Android Studio, Jira, Confluence, and more.
 
+Please visit my **personal portfolio website** for more details! https://my-personal-portfolio-azure-psi.vercel.app
+
 ## Work Experience
 - Developer Intern – National Bank of Canada (Jun 2024 - Aug 2024)
   - Improved system performance and security, and created onboarding documentation for developers.
