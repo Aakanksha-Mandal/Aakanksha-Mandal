@@ -2,7 +2,7 @@
 
 Hi! I’m Aakanksha, a 3rd year Computer Science student at the **University of Windsor**, specializing in **AI with a Mathematics Minor**. I’m passionate about software development, system architecture, and problem-solving. I have hands-on experience with Python, Java, C, Bash, PowerShell, and beginner-level web development (HTML, CSS, JavaScript). I’ve also worked with cloud technologies like Azure Logic Apps, Function Apps, Databricks, and DevOps, along with tools such as Visual Studio, Android Studio, Jira, Confluence, and CI/CD pipelines.
 
-Please visit my **[Personal Portfolio Website](https://my-personal-portfolio-azure-psi.vercel.app)** for more details! 
+Please visit my **[Personal Portfolio Website](https://aakanksha-mandal.vercel.app)** for more details! 
 
 ## Work Experience
 - Part-Time, Student Developer – Bank of Canada (Sep 2025 – Present)
