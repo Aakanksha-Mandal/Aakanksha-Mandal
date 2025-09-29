@@ -1,18 +1,28 @@
 # Aakanksha Mandal
 
-Hi! I’m Aakanksha, a **2nd year Computer Science** student at the **University of Windsor** with a strong passion for software development, system architecture, and problem-solving. I have experience working with Python, Java, C, Bash, and web development (HTML, CSS, JavaScript). I’ve worked with a variety of tools and technologies including Visual Studio, Android Studio, Jira, Confluence, and more.
+Hi! I’m Aakanksha, a 3rd year Computer Science student at the **University of Windsor**, specializing in **AI with a Mathematics Minor**. I’m passionate about software development, system architecture, and problem-solving. I have hands-on experience with Python, Java, C, Bash, PowerShell, and beginner-level web development (HTML, CSS, JavaScript). I’ve also worked with cloud technologies like Azure Logic Apps, Function Apps, Databricks, and DevOps, along with tools such as Visual Studio, Android Studio, Jira, Confluence, and CI/CD pipelines.
 
 Please visit my **[Personal Portfolio Website](https://my-personal-portfolio-azure-psi.vercel.app)** for more details! 
 
 ## Work Experience
+- Part-Time, Student Developer – Bank of Canada (Sep 2025 – Present)
+  - Designing reusable Databricks Asset Bundle deployment templates with environment-specific configs.
+  - Writing documentation to standardize deployments across multiple teams and environments.
+
+- Co-Op, Student Developer – Bank of Canada (May 2025 – Aug 2025)
+  - Automated Azure Logic App source code synchronization with custom Bash & PowerShell scripts.
+  - Built Azure DevOps deployment templates for Logic Apps and Function Apps with child pipelines.
+  - Standardized configuration management across projects, improving consistency and reducing manual effort.
+  - Developed professional HTML email templates and migrated pipeline alerting systems.
+
 - Developer Intern – National Bank of Canada (Jun 2024 - Aug 2024)
   - Improved system performance and security, and created onboarding documentation for developers.
   - Developed automation scripts and enhanced system visibility.
     
-- Research Assistant – University of Waterloo (Sep 2022 - Jan 2023)
+- Co-op, Research Assistant – University of Waterloo (Sep 2022 - Jan 2023)
   - Conducted research and testing for Virtual Reality projects and other tech initiatives.
     
-- Computer Programming Assistant – Wilmot Technologies (Jun 2022 - Jul 2022)
+- Co-op, Computer Programming Assistant – Wilmot Technologies (Jun 2022 - Jul 2022)
   - Developed websites using HTML, CSS, and Bootstrap, focusing on responsive design.
 
 ## Projects
@@ -38,9 +48,10 @@ Please visit my **[Personal Portfolio Website](https://my-personal-portfolio-azu
   - Created a Button Click Game using Java Swing to change the background color and display messages based on user interaction.
 
 ## Skills & Tools
-- Programming Languages: Python, Java, C, Bash
-- Web Development: HTML, CSS, JavaScript (Beginner)
-- Tools: Visual Studio, Android Studio, Kanban, Jira, Confluence
+- Programming Languages: Python, Java, C, Bash, PowerShell
+- Web & Data Formats: HTML, CSS, JavaScript (Beginner), JSON, YAML
+- Cloud & Azure: Logic Apps, Function Apps, Databricks, DevOps, Data Factory, Blob Storage, Log Analytics
+- Tools & Methods: Visual Studio, Android Studio, Jira, Confluence, Agile, Kanban, CI/CD Pipelines
 - Operating Systems: UNIX, Windows
 
 ## Connect
@@ -56,5 +67,3 @@ Please visit my **[Personal Portfolio Website](https://my-personal-portfolio-azu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aakanksha-Mandal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
