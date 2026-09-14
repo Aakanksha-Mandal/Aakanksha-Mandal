@@ -1,13 +1,25 @@
 # Aakanksha Mandal
 
-Hi! I’m Aakanksha, a 3rd year Computer Science student at the **University of Windsor**, specializing in **AI with a Mathematics Minor**. I’m passionate about software development, system architecture, and problem-solving. I have hands-on experience with Python, Java, C, Bash, PowerShell, and beginner-level web development (HTML, CSS, JavaScript). I’ve also worked with cloud technologies like Azure Logic Apps, Function Apps, Databricks, and DevOps, along with tools such as Visual Studio, Android Studio, Jira, Confluence, and CI/CD pipelines.
+Hi! I’m Aakanksha, a 4th year Computer Science student at the **University of Windsor**, specializing in **AI with a Mathematics Minor**. I’m passionate about software development, system architecture, and problem-solving. I have hands-on experience with Python, Java, C, Bash, PowerShell, and beginner-level web development (HTML, CSS, JavaScript). I’ve also worked with cloud technologies like Azure Logic Apps, Function Apps, Databricks, and DevOps, along with tools such as Visual Studio, Android Studio, Jira, Confluence, and CI/CD pipelines.
 
 Please visit my **[Personal Portfolio Website](https://aakanksha-mandal.vercel.app)** for more details! 
 
 ## Work Experience
+- Part-Time, Student Developer – Bank of Canada (Sep 2026 – Present)
+  - Migrate existing Datastage Rules to a Databricks python notebook for ingesting time series data into Databricks Unity Catalogue.
+    
+- Internship, Student Developer – Bank of Canada (Apr 2026 – Aug 2026)
+  - Engineered multiple Azure Data Factory pipelines to ingest data from external SFTP servers and R Drive into landing, raw, and standardized zones.
+  - Created Databricks Python notebooks to transform and standardize ingested data across pipeline stages.
+  - Migrated existing DataStage rules to file validation Databricks Python notebooks for data ingestion into Databricks Unity Catalog.
+  - Migrated existing Oracle SQL Database tables to Databricks Unity Catalog using ADF pipelines and Databricks Python notebooks.
+  - Configured ServiceNow dependencies on NetApp for Data Pipeline Configuration Items (CIs) utilizing the R drive as a landing zone.
+   
 - Part-Time, Student Developer – Bank of Canada (Sep 2025 – Present)
-  - Designing reusable Databricks Asset Bundle deployment templates with environment-specific configs.
-  - Writing documentation to standardize deployments across multiple teams and environments.
+  - Designing reusable Databricks Asset Bundle deployment templates for apps, jobs, and notebooks, with environment-specific configurations (dev, stg, prd). Creating documentation to standardize deployments across multiple teams and environments.
+  - Built and validated Azure Data Factory pipeline for ingesting data from external SFTP source into the raw zone.
+  - Migrated and deployed shared Databricks bundles and Logic Apps into centralized repositories, ensuring consistent configuration and deployment.
+  - Standardized and cleaned up ServiceNow Configuration Items (CIs) by creating and retiring Data Pipeline and Application CIs, validating pipeline relationships, managing dependencies, and linking Application CIs with Data Pipeline CIs.
 
 - Co-Op, Student Developer – Bank of Canada (May 2025 – Aug 2025)
   - Automated Azure Logic App source code synchronization with custom Bash & PowerShell scripts.
@@ -48,10 +60,10 @@ Please visit my **[Personal Portfolio Website](https://aakanksha-mandal.vercel.a
   - Created a Button Click Game using Java Swing to change the background color and display messages based on user interaction.
 
 ## Skills & Tools
-- Programming Languages: Python, Java, C, Bash, PowerShell
+- Programming Languages: Python, Java, C, Bash, PowerShell, SQL
 - Web & Data Formats: HTML, CSS, JavaScript (Beginner), JSON, YAML
 - Cloud & Azure: Logic Apps, Function Apps, Databricks, DevOps, Data Factory, Blob Storage, Log Analytics
-- Tools & Methods: Visual Studio, Android Studio, Jira, Confluence, Agile, Kanban, CI/CD Pipelines
+- Tools & Methods: Visual Studio, Android Studio, Jira, Confluence, Oracle SQL Developer, Agile, Kanban, CI/CD Pipelines
 - Operating Systems: UNIX, Windows
 
 ## Connect
